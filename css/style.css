@@ -97,7 +97,11 @@ h1, h2, h3, h4 {
 }
 .main-nav a:hover::after { width: 100%; }
 
-.nav-cta { margin-left: 8px; padding: 11px 24px; font-size: .78rem; }
+.nav-cta {
+  margin-left: 8px; padding: 11px 24px; font-size: .78rem;
+  background: var(--gold); color: var(--ink); border-color: var(--gold);
+}
+.nav-cta:hover { background: var(--ink); color: var(--cream); border-color: var(--ink); }
 
 .burger {
   display: none; flex-direction: column; justify-content: center; gap: 5px;
