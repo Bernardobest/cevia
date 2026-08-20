@@ -1,6 +1,6 @@
-# Cévia — site artiste peintre
+# Cevia — site artiste peintre
 
-Site statique (HTML/CSS/JS, sans build) pour présenter et faire découvrir le travail de Cévia (Chantal Vigne), artiste peintre : bio, galerie de toiles, expositions, presse, contact.
+Site statique (HTML/CSS/JS, sans build) pour présenter et faire découvrir le travail de Cevia (Chantal Vigne), artiste peintre : bio, galerie de toiles, expositions, presse, contact.
 
 ## Structure
 
